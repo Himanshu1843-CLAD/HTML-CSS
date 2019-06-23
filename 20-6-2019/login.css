@@ -1,0 +1,71 @@
+body
+{	background-image: url(http://www.sclance.com/backgrounds/login-background/login-background_1446040.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+}
+header
+{	text-align: center;
+	width:40%;
+	box-shadow: 5px;
+	font-size: 30px;
+	padding: 10px;
+	border-radius: 5px;
+}
+ul
+{
+	display: block;
+	padding: 15px;
+	background-color: orange;	
+	width: 100%;
+	margin: 0px;
+	left: 0px;
+	border-radius: 5px;
+}
+a
+{
+	font-size: 25px;
+	padding: 30px;
+	text-decoration: none;
+	color:lightblue;
+}
+input
+{
+	width: 20%;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 2px;
+}
+label
+{
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+.email
+{
+	margin: 20px;
+}
+.pass
+{
+	margin: 17px;
+}
+.login
+{
+	width: 100px;
+	border-radius: 10px;
+	color: yellow;
+	background-color: blue;
+	padding: 10px;
+}
+header,label
+{
+	color:skyblue;
+}
+a:hover
+{
+	color:white;
+}
+input:hover
+{
+	background-color: lightgreen;
+}
